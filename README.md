@@ -16,6 +16,5 @@ I’m looking for help with advanced React design patterns, scalable backend arc
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Umangpr&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
----
 ![](https://komarev.com/ghpvc/?username=Umangpr)
 
